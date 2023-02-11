@@ -44,3 +44,9 @@ Model can be represented as String for both currency and rate value.
 In more advanced/real case 
 currency would be own type for better search and comparison, guarantee of no duplicate
 rate value would be numeric e.g. BigDecimal for server side calculations.
+
+## Test
+
+http://localhost:8080/symbols
+http://localhost:8080/currencies/
+http://localhost:8080/currencies/USD
