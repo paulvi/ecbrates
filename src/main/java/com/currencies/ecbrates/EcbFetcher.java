@@ -18,7 +18,7 @@ public class EcbFetcher {
 
     // Implementation notes: it may be possible to unzip InputStream directly from remote location,
     // however making clear steps helps judge on error reason and not to take unnecessary actions.
-    static String fetch(){
+    public static String fetch(){
 
         byte buffer[] = new byte[BUFFER_SIZE];
 

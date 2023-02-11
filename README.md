@@ -47,6 +47,6 @@ rate value would be numeric e.g. BigDecimal for server side calculations.
 
 ## Test
 
-http://localhost:8080/symbols
-http://localhost:8080/currencies/
-http://localhost:8080/currencies/USD
+- http://localhost:8080/symbols
+- http://localhost:8080/currencies/
+- http://localhost:8080/currencies/USD
